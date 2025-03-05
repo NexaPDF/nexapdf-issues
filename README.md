@@ -23,6 +23,6 @@ If you have ideas for new features, please submit them as an issue with the labe
 Currently, this repository is only for tracking issues. If you're interested in contributing to NexaPDF, stay tuned for updates!  
 
 ## 📬 Contact  
-For general inquiries, please visit our [https://nexapdf.github.io](#) or contact support.  
+For general inquiries, please visit our [official website](https://nexapdf.github.io/) or contact support.  
 
 Thank you for helping improve NexaPDF! 🚀  
